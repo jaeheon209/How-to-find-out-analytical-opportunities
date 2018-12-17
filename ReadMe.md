@@ -2,7 +2,7 @@
 
 # 데이터 분석 과제 정의 방법 정리
 
-[데이터 분석 과제 정의 방법 정리-작성중](./How-to-find-out-analytical-opportunities.md)
+[데이터 분석 과제 정의 방법 정리](./How-to-find-out-analytical-opportunities.md)
 
 [데이터 분석 과제 정의 방법 정리 요약 - 내용 없음](./How-to-find-out-analytical-opportunities-summary.md)
 
